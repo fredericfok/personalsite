@@ -1,0 +1,40 @@
+{
+    "intro": {
+        "en": "My name is Frederic Fok. I am an Engineer and I also hold a Master of Research (INSA, Toulouse), specialialized in Architecture, Systems, Networks and Telecommunications. I welcome you to my site."
+        ,"fr": "Je m'appelle Frédéric Fok. Je suis Ingénieur et titutlaire d'un master de recherche (INSA, Toulouse) spécialisé en Architectures, Systèmes, Réseaux et Télécommunications. Je vous souhaite la bienvenue sur mon site. "
+    }
+  , "recent_work": {
+        "title_en": "Recent work"
+        ,"title_fr": "Travaux récents"
+        ,"en":   "I am currently working at ZTE, an International Telecommunication Company. I currently lead product & project activities related to \"Machine-to-Machine\" (energy managment, smart home, connected car), as well as mobile payment. More specifically I am interested in the strategic definition of new products that will enable to provide an augmented end user experience. This way, we are targeting to foster smart & innovative communication systems in order to transform our life style while being respectful to the environment. We are in a fast growing information society; while the smartphone already proved its high capacity in changing the way the users get access to the  social internet, there are still new form of  communication objects that  will enter into end users' life, or at least improving their experience. With my team in Paris, we are currently experimenting the \"Internet of Things & People\" "
+        ,"fr":   "Je travaille actuellement chez ZTE, une entreprise internationale en Télécommunications. Je mène actuellement les  produits et projets reliés aux communications \"Machine-to-Machine\" (la maison intelligente, le compteur intelligent, la voiture connectée,...), ainsi que les solution de commerce électronique mobile. En particulier, je m'intéresse à la définition stratégique de nouveaux produits qui permettront d'apporter une expérience augmentée pour les utilisateurs. Cette approche vise à permettre l'essor de systèmes de communication innovants visant à rendre nos modes de vie future intelligents et respectueux de l'environnement, dans un monde où le smartphone a déjà montré une grande part de ses capacités mais où de nouveaux objets communiquants de nature diverses prendront de nouvelles places dans nos vies. Avec mon équipe basée à Paris, nous expérimentons actuellement \"l'internet des choses et des personnes.\" "
+  }
+  , "int_pro" : {
+      "title_en"    : "Professional Interests"
+      ,"title_fr"  : "Interêts professionels"
+      ,"fr":     {
+                "fr_01": "Sur le plan professionnel, je suis intéressé par les nouvelles technologies mobiles, les communications réseaux et les technologies Internet."
+                ,"fr_02": "J'ai une expérience dans le domaine des technologies et communications mobiles (GSM, UMTS, LTE, SAE, IMS, Mobile IP, MBMS, IP-TV, NFC)." 
+                ,"fr_03": "Étant passionnément curieux, j'aime étudier toutes les possibilités sur toutes les idées. Je désire mener et gérer des projets professionnels à caractère innovant, entouré d'équipes motivés, ouvertes, et compétentes."
+      }
+      ,"en":     {
+                "en_01": "In professional terms, I am interesting in new mobile-related technologies, network communication and web oriented technologies"
+                ,"en_02": "I have a professional experience on mobile communications and technologies (GSM, UMTS, LTE, SAE, IMS, Mobile IP, MBMS, IP-TV, NFC)."
+                ,"en_03": "Being passionately curious, I like to find all possibilities around any ideas. My desire is to lead professional projects, guide people towards innovative thinking, surrounded by motivated and hilghly qualified teams."
+      }
+  }
+  , "int_perso" : {
+      "title_en"    : "Personal Interests"
+      ,"title_fr"  : "Interêts personnels"
+      ,"fr":     {
+                "fr_01": "Sur le plan personnel, je suis intéressé par l'art et le met en pratique: peinture (huile et acrylique), et je me suis pris de passion pour la Photographie. Je me ballade désormais souvent muni de mon Nikon D90, prêt à saisir les instants de la vie."
+                ,"fr_02": "Je suis aussi musicien et pratique à loisir la guitare et le piano. Je suis particulièrement sensible à la musique jazz et électronique. J'ai aussi un grand plaisir à voyager et à découvrir les différentes cultures et traditions. Je pense que l'on apprend beaucoup des autres et que l'enrichissement personnel mais aussi professionnel passe par le partage et l'ouverture d'esprit." 
+                ,"fr_03": "Enfin, nageur depuis tout petit, je me suis récemment découvert une passion pour la plongée sous-marine et souhaite m'épanouir dans cette pratique dans le futur."
+      }
+      ,"en":     {
+                "en_01": "In personal terms I am interesting in art and put it in practice: I like oil and acrylic painting, and more recently I became infatuated with photography. From now on I use to travel with my Nikon D90, ready to shot life moments."
+                ,"en_02": "I am also musicien and sometimes play the guitare and the piano. I am sensitive to jazz and electronic music.I also like travelling as well as discovering other cultures and customs. I think we learn a lot from others and that personnal enrichment comes from the sharing with people and by the opening of mind. "
+                ,"en_03": "Finally, I became infatuated with Scuba diving and wish to bloom in this domain too."
+      }
+  }
+}

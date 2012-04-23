@@ -1,0 +1,50 @@
+<!-- Include head banner on top and include scripts -->
+
+<% header = partial('header.ejs') %>
+
+<div class="container">
+
+    <div class="row">
+        <div class="span10">
+            <!--Body content-->
+
+                <div class="row">
+                    <div class="span10 ff_block ff_desc">
+                        <div class="row">
+                            <div class="span10">
+                                <% for (i=0; i<activities.length; i++){ %>
+                                    <h3 class="ff_activity_title well" data-toggle="collapse" data-target="#act<%=i%>"><%=activities[i].titre%></h3>
+                                    <div id="act<%=i%>" class="collapse in">
+                                        <h4><i>period: <%=activities[i].period %></i></h4>
+                                        <h4><i>where: <%=activities[i].where %></i></h4>
+                                        <h4><i>keywords: <%=activities[i].keyword %></i></h4>
+                                        <ul>
+                                            <% for (j=0; j<activities[i].list.length; j++){ %>
+                                                <li><%=activities[i].list[j] %></li>
+                                            <% } %>
+                                        </ul>
+                                    </div>
+                                <% } %>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+        
+
+        <div class="span2">
+            <!-- sidebar content -->
+            <%- partial("sidebar.ejs") %>
+        </div>
+    
+
+
+  <hr>
+
+  <footer>
+    <p>&copy; Frederic Fok - 2012 <i>(made with Node.js, CSS3, EJS, Express) </i></p>
+  </footer>
+
+
+</div> <!-- /container -->

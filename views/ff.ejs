@@ -1,0 +1,95 @@
+<!-- Include head banner on top and include scripts -->
+
+<% header = partial('header.ejs') %>
+
+<div class="container">
+
+    <div class="row">
+        <div class="span10">
+            <!--Body content-->
+
+                <div class="row">
+                    <div class="span10 ff_block ff_desc">
+                        <div class="row">
+                            <div class="span3"> 
+                                <ul class="thumbnails">
+                                    <li class="span3">
+                                        <a href="#" class="thumbnail">
+                                        <img src="img/fred_id.jpg" alt="Frederic Fok"/>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="span6">
+                                <h1><%=description%></h1> <br>
+                                <p class="well hero-unit">
+                                    <%=content['intro']%>
+                                </p>
+                                <p>
+                                <blockquote class="pull-right">"Ishi No Ue Ni Mo San Nen"</blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+              <div class="row">
+                <div class="span10 ff_block ff_desc">
+                  <div class="row">
+                    <div class="span10">
+                      <h2><%=content['recent_work_title']%></h2>
+                        <p>
+                            <%=content['recent_work']%>
+                        <p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="row">
+                    <div class="span10 ff_block ff_desc">
+                        <div class="row">
+                            <div class="span10">
+                                <h2><%=content['int_pro_title'] %></h2>
+                                <p>
+                                <%=content['int_pro'].t1 %> <br>
+                                <%=content['int_pro'].t2 %> <br>
+                                <%=content['int_pro'].t3 %> <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+              </div>
+            
+            
+              <div class="row">
+                    <div class="span10 ff_block ff_desc">
+                        <div class="row">
+                            <div class="span10">
+                                <h2><%=content['int_perso_title'] %></h2>
+                                <p>
+                                <%=content['int_perso'].t1 %> <br>
+                                <%=content['int_perso'].t2 %> <br>
+                                <%=content['int_perso'].t3 %> <br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+              </div>
+
+
+        </div>
+        
+        <div class="span2">
+            <!-- include side bar*/ -->
+            <%- partial("sidebar.ejs") %>
+        </div>
+
+  <hr>
+
+  <footer>
+    <p>&copy; Frederic Fok - 2012 <i>(made with Node.js, CSS3, EJS, Express) </i></p>
+  </footer>
+
+
+
+</div> <!-- /container -->

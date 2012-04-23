@@ -1,0 +1,58 @@
+/*customer stylesheet*/
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #7e8a9e; 
+}
+
+.ff_block {
+    background-color: #bac6cf; 
+    background-color: #c9e0de; 
+    padding-top: 20px;
+}
+
+.lang-en {
+    color: #30615a; 
+}
+
+.ff_desc {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.ff_sidebar {
+    background-color: #9ad6d1; 
+    padding-left: 20px;
+}
+
+.ff_sidebar_main {
+    background-color: #3c3c3d; 
+}
+
+.ff_sidebar_top {
+    background-color: #3c3c3d; 
+    color: #2cc9bc;
+    padding-left: 20px;
+}
+
+.ff_activity_title {
+    background-color: #787878; 
+    color: #b2e8e4;
+}
+
+.thumbnail {
+	background-color: transparent; 
+}
+.hero-unit {
+	background-color: #3c3c3d; 
+    color: #dcedec;
+}
+
+.thumbnail {
+    border: transparent; 
+}
+
+footer {
+    color: #dcedec; 
+}

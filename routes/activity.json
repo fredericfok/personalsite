@@ -1,0 +1,178 @@
+{
+    "activity_11": {
+        "en" : {
+            "titre"     : "M2M & M-Payment Product Manager & Team Leader"
+            ,"period"   : "Since 2011-05-17"
+            ,"where"    : "ZTE Corporation ; Boulogne Billancourt"
+            ,"keyword"  : "M2M, M-Payment, smart home, smart metering, connected cars, smart terminals"
+            ,"list"     : ["Machine-to-Machine & Mobile payment team & technical projects leader", "International project coordination and support", "M2M Product management (Smart Metering, Connected homes, LBS, Mediation Platform, ...)", "Strategies and coordination with Product lines in China", "Market analysis and business development", "Patent submitted", "Lead an Innovation project on the \"Internet of Things\" with a Tier 1 operator in Europe", "Lead a Smart Home & Energy Efficiency Proof Of Concept Project with a Utility in UK"]
+        }, 
+        "fr": {
+            "titre"     : "Manager M2M et M-Payment"
+            ,"period"   : "depuis 2011-05-17"
+            ,"where"    : "ZTE Corporation ; Boulogne Billancourt"
+            ,"keyword"  : "M2M, e-commerce, maisons connectées, compteurs intelligents, voitures connectées, terminaux intelligents"
+            ,"list"     : ["Gestion des produits et projets \"Machine-to-Machine\" et de paiement mobile", "Direction des équipes et gestion techniques des projets", "Coordination et support international aux projets, zone Europe", "Gestion des stratégies produits tels que: compteurs intelligents, voitures intélligentes, maisons intellitentes, services de géo-localisation, plateforme de médiation", "Stratégie et coordination avec les lignes produits en Chine", "Analyze du marché et devéloppement du business", "Soumission de brevet", "Projet d'Innovation sur \"l'Internet des Choses\" mené avec un Tier1 operator en Europe", "Preuve de Concept dans le domaine de la maison connectée et de l'efficacité energétique pour une compagnie d'Energie en Angleterre"]
+        }
+    }, 
+    "activity_10": {
+        "en" : {
+            "titre"     : "R&D Engineer - Demonstration leader & Thin client technology improvement"
+            ,"period"   : "2008-01-01 - 2009-04-18"
+            ,"where"    : "NEC Technologies ; Puteaux"
+            ,"keyword"  : "Thin Client, VNC, RDP, IMS"
+            ,"list"     : ["Involved and contributing on MobiThin project, a FP7 European Research Project", "Field of research: mobile thin client Optimizations: analysis, architecture, system, and protocol enhancements for mobile networks (3G/LTE/WiFi/IMS,...)", "Supervised consultants and trainees in various areas: protocol optimization, thin client studies, and thin client application integration on NEC mobile phone.", "2009:finalized the demonstration of a thin client application (on Android mobile phone) established established through an IP Multimedia Subsystem network. The demonstration combined with a voice recognition program, allows the control of a remote application by voice.", "2008: Demonstration leader: Leading the demonstration task of the porting of a thin client and the protocol enhancements on NEC mobile device.", "Supervised a trainee to demonstrate a proof-of-concept and integrate the NFC Technology on NEC mobile device.", "NFC Forum Standards: Observer"]
+        }, 
+        "fr" : {
+            "titre"     : "Ingénieur R&D - Adaptation et amélioration des systèmes et protocoles dits \"client léger \""
+            ,"period"   : "2008-01-01 - 2009-04-18"
+            ,"where"    : " NEC Technologies ; Puteaux"
+            ,"keyword"  : "Thin Client, VNC, RDP, IMS"
+            ,"list"     : ["Contribution au sein du projet Mobithin, un projet de recherche Européen financé la commission Européenne (FP7)", "Domaine de recherche: Optimisation des protocoles dits \"client léger\" en environnement mobiles: analyse, architecture, amélioration du système et des protocoles dans une optique d'adaptation dite \"cross layer\". Ce projet cible aussi le transport adéquate des flux sur réseau mobiles (3G/LTE/WiFi/IMS,...)", "Supervision de consultants et stagiaires dans des domaines variés: optimisation protocolaire, études de clients légers, application NFC (Near Field Communication) embarqué mobile, et intégration embarqué d'une application VNC dans un téléphone NEC", "2009: Démonstration d'une application Client Léger (sur téléphone Android) fonctionnant sur un réseau IMS (IP Multimedia Subsystem) et mettant en oeuvre la fonctionnalité de reconnaissance vocale à distance, permettant le contrôle à distance d'un ordinateur par la voix", "2008: Leader d'une démonstration: gestion et management de la tache de portage d'une client léger et des améliorations protocolaire sur téléphone mobile NEC", "Supervision de stagiaire vis à vis de l'amélioration des protocoles \"client léger\"", "Supervision de stagiaire pour démontrer une preuve de concept et intégrer la technology NFC sur téléphone mobile NEC", "NFC Forum: Suivi de standard"]
+        }
+    },
+    "activity_9": {
+        "en" : {
+            "titre"     : "R&D Engineer - Mobile Architecture Design and technical surveys on next generation network services"
+            ,"period"   : "2007-02-00 - 2007-12-00"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "IMS, VCC, SAE, LTE, NFC"
+            ,"list"     : ["Design of an architecture for the next generation of mobile phones", "Technological surveys: IP Multimedia Subsystem, Voice Call Continuity, System Architecture Evolution (SAE), Long Term Evolution (LTE)", "Submission of patents", "Involved in the design of an architecture to enable the mobile IP connectivity and service convergence becomes a reality", "Following and participating to NFC Forum Meetings and contributing to the advances of the technology"]
+        }, 
+        "fr" : {
+            "titre"     : "Ingénieur R&D - Conception d'une architecture mobile et analyse technique des services réseau de prochaine génération (NGN services) "
+            ,"period"   : "2007-02-01 - 2007-12-03"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "IMS, VCC, SAE, LTE, NFC "
+            ,"list"     : ["Conception d'une architecture pour les prochaines générations de téléphones mobiles.", "Analyses et rapports technologiques: IP Multimedia Subsystem, Voice Call Continuity, System Architecture Evolution (SAE), Long Term Evolution (LTE).", "Dépôt de brevets", "Suivi, participation et contribution au Forum NFC"]
+        }
+    },
+    "activity_8": {
+        "en" : {
+            "titre"     : "R&D Engineer - IPTV studies and proof-of-concept validation on mobile device"
+            ,"period"   : "2006-09-00 - 2007-01-00"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "IPTV, MBMS, DVB-H, OMA-BCAST"
+            ,"list"     : ["Study of technologies in the field of mobile IP TV (MBMS, DVB-H, OMA-BCAST)", "Validation of a mutlicast feature with the conception of an application tested on mobile phone."]
+        },
+        "fr" : {
+            "titre"     : "Ingenieur R&D - Etudes IPTV et validation d'une preuve de concept sur telephone mobile."
+            ,"period"   : "2006-09-01 - 2007-01-01"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "IPTV, MBMS, DVB-H, OMA-BCAST"
+            ,"list"     : ["Etudes technologiques dans le cadre de la TV sur IP. (MBMS, DVB-H, OMA-BCAST)", "Validation d'un composant applicatif supportant le multicast testé sur téléphone mobile simulé et réel."]
+        }    
+    }, 
+    "activity_7": {
+        "en" : {
+            "titre"     : "R&D Trainee Engineer - NFC Technology demonstration on mobile phone"
+            ,"period"   : "2006-02-01 - 2006-09-01"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "NFC, HTTP Web Server"
+            ,"list"     : ["Responsible of a Research and Development demonstration project on an emerging technology called NFC (Near Field Communication)", "The project aimed at developping and integrating an End-to-End mobile application using Contactless technology", "Introduction to project management (Weekly reports and action reporting)", "Realization of a prototype using NFC Technology to promote new services", "Familiarization with the NFC technology. Production of a Technical Report regarding the \"NFC State Of The art\"", "Requirements Definition and Architecture Design", "UML modeling with Rational Rose Professional Edition", "Use of Rational Clear Case for software version management", "Embedded C langage in mobile environment experience", "coding of a Native application (middleware level)", "coding an End-To-End application (study, design, development, Integration)", "Control of TCP/IP in mobile environment and coding of a NFC-enabled mini-HTTP server"]
+        },
+        "fr" : {
+            "titre"     : "Ingénieur stagiaire R&D - démonstration d'une application, basée sur la technologie NFC, sur téléphone mobile NEC"
+            ,"period"   : "2006-02-01 - 2006-09-01"
+            ,"where"    : "NEC Technologies ; Paris La Defense"
+            ,"keyword"  : "NFC, HTTP Web Server"
+            ,"list"     : ["Responsable d'une projet de démonstration en recherche et développement dans le cadre d'une technologie émergente: NFC (Near Field Communication)", "Le projet avait pour objectif de développer et d'intégrer une application mobile de bout-en-bout en utilisant la technologie aussi appelée \"sans contact\"", "Introduction au management de projet (rapports et suivis d'action hebdomadaires)", "Réalisation d'un prototype utilisant la technologie NFC pour promouvoir de nouveaux services.", "Familiarisation avec la technologie NFC. Rédaction d'un rapport technique sur la technologie. Présentation aux employés de la technologie.", "Définition des besoins (requirements) du système et conception de l'architecture.", "Modélisation UML avec Rational Rose Professional Edition et génération automatique de code", "Utilisation de Rational Clear Case pour la mise en gestion de configuration", "langage C embarquée en environnement mobile embarqué", "codage d'une application native", "codage d'une application de bout en bout (étude, design, développement, intégration)", "Codage d'un mini HTTP Server modifiée pour les besoins du système NFC.", "Rédaction de rapports techniques en anglais"]
+        }
+    },
+    "activity_6": {
+        "en" : {
+            "titre"     : "Research Intern - Video traffic characteristics and modification of a SIP proxy for QoS reservation"
+            ,"period"   : "2005-06-01 - 2005-09-01"
+            ,"where"    : "Laboratoire d'Analyze et d'Architecture des Système (LAAS) ; Toulouse"
+            ,"keyword"  : "SIP, QoS, Video traffic Characterization"
+            ,"list"     : ["I studied SIP protocol(Session Initiation Protocol) in order to modify a SIP proxy in JAVA language using Nist SIP librairy", "To get inter-operability between the reservation process and the mechanisms of communication, I made a specific choice of architecture.", "The issue of Voice over IP and video streaming, etc, lead me to work at both architectural level and network plateform we used for the reservation needs.", "Another report have been made to present the architecture of the system and the reservation process using SIP protocol."]
+        },
+        "fr" : {
+            "titre"     : "Stagiaire en recherche - trafic vidéo et modification d'un proxy SIP pour la réservation de qualité de service"
+            ,"period"   : "2005-06-01 - 2005-09-01"
+            ,"where"    : "Laboratoire d'Analyze et d'Architecture des Système (LAAS) ; Toulouse"
+            ,"keyword"  : "SIP, QoS, analyze de Trafic Video"
+            ,"list"     : ["Etude du protocole SIP", "modification d'un proxy SIP", "architecture pour la mise en oeuvre de la qualité de service", "réservation de qualité de service"]
+        }
+    }, 
+    "activity_5": {
+        "en" : {
+            "titre"     : "Academic Project - UMTSLab"
+            ,"period"   : "2006-01-02 - 2006-01-02"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "CDMA, QPSKA, Signal treatment and analysis"
+            ,"list"     : ["UMTSLab is an academic project wherein a program for signal treatment has been developed. It allows the manipulation of CDMA access techniques and QPSK modulation used in third generation network (UMTS). As such the user can modify the QPSK and CDMA parameters and see the results on the signal and the frequency spectrum."]
+        },
+        "fr" : {
+            "titre"     : "Projet académique - UMTSLab"
+            ,"period"   : "2006-01-02 - 2006-01-02"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "CDMA, QPSKA, Analyse et traitement du signal"
+            ,"list"     : ["UMTSLab est un projet académique. Un programme de traitement du signal a été développé permettant la manipulation des techniques d'accès CDMA et des techniques de modulation QPSK utilisés dans les réseaux de troisième génération.", "Ainsi l'utilisateur peut modifier les paramètres QPSK et CDMA et voir les résultats sur le signal et son spectre de fréquence."]
+        }
+    }, 
+    "activity_4": {
+        "en" : {
+            "titre"     : "Academic Project - Video-on-Demand application based on RTSP"
+            ,"period"   : "2005-04-01 - 2005-04-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : " RTSP, SDPng, JAVA, JMF"
+            ,"list"     : ["This project aims to design and develop a client/server program allowing the video streaming over the Internet", "The Server provides to client a list of media which the clients can play on demand.", "The program is coded in Java. It uses the Java Media Framework (JMF) library. Some variation to the standard RTSP have been added to allow transporting SDPng information"]
+        },
+        "fr" : {
+            "titre"     : "Projet académique - Application de video à la Demande basé sur RTSP"
+            ,"period"   : "2005-04-01 - 2005-04-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "RTSP, SDPng, JAVA, JMF"
+            ,"list"     : ["Ce projet a pour but de concevoir et développer un programme client/serveur permettant la diffusion de vidéo à la demande sur Internet.", "Le serveur propose au client une liste de media (video, musique) que le client peut jouer \"à la demande\"", "Le programme est codé en Java. Il utilise la librairie JMF (Java Media Framework).", "Quelques variation au standard RTSP ont été ajouté pour permettre le transport d'information SDPng."]
+        }
+    },
+    "activity_3": {
+        "en" : {
+            "titre"     : "Academic Project - SimuTrafic 2005"
+            ,"period"   : "2005-04-01 - 2005-04-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "Autonomous Agent, Java, Swing"
+            ,"list"     : ["SimuTrafic 2005 is a road network simulator. The objective is to illustrate the different steps of a software conception using UML techniques", "This project has been developed in Java and Swing and uses the concepts of autonomous agent for the handling of concurrent evetns and communication"]
+        },
+        "fr" : {
+            "titre"     : "Projet académique - SimuTrafic 2005"
+            ,"period"   : "2005-04-01 - 2005-04-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "Autonomous Agent, Java, Swing"
+            ,"list"     : ["SimuTrafic 2005 est un simulateur de réseau routier. L'objectif était de présenter les différents étapes de la conception logiciel en utilisant les techniques UML", "Le projet a été développé en Java avec la librairie Swing et utilise le concept d'agent autonome pour les communications concurrentes."]
+        }
+    }, 
+    "activity_2": {
+        "en" : {
+            "titre"     : "Academic Project - QoS in the Internet"
+            ,"period"   : "2005-03-01 - 2005-03-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "QoS, IntServer, DiffServ, Visioconference, RTP/RTCP"
+            ,"list"     : ["This academic research project of 6 months was to set in place en platform for negotiating and reserving QoS in the internet. As a result several programs were developped as well as a final report explaining the projects, the QoS techniques employed, the different entities of the system, and the new protocol of communication developed for the project.", "A first approach to interoperation of heterogeneous QoS techniques (IntServ, DiffServ) were presented as well as the specific resource reservation platform setup. This platform was a multidomain platform and we were able to classify the IP trafic on the border gateways.", "The project also consisted in the development of a visioconference application based on RTP/RTCP.", "This allowed to measure the effective impact of our system on the media flows and quality of user experience."]
+        },
+        "fr" : {
+            "titre"     : "Projet académique - QoS dans l'Internet"
+            ,"period"   : "2005-03-01 - 2005-03-01"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "QoS, IntServer, DiffServ, Visioconference, RTP/RTCP"
+            ,"list"     : ["Ce projet académique de 6 mois a eu pour objectif la mise en place d'une plateforme permettant de négocier et réserver la qualité de service dans l'Internet. Plusieurs programme furent développés et un rapport final fut écrit expliquant le projet, les techniques de QoS employés, les différentes entités du système, et le nouveau protocole de communication développé pour le projet.", "Une première approche d'inter-opération de techniques à QoS (IntServ, DiffServ) à été présenté ainsi que l'établissement des ressources réseau par la plateforme multi-domaine. Cette plateforme permettait entre autre de classifier et \"scheduler\" les flux IP au niveau des routeurs de bordure.", "Le projet a aussi consisté à développer une application de visioconférence basé sur RTP/RTCP. Ceci a permis de mesurer les impacts de notre système de réservation sur les flux media et la qualité d'expérience utilisateur."]
+        }
+    },   
+    "activity_1": {
+        "en" : {
+            "titre"     : "Academic Project - BlackBox Project"
+            ,"period"   : "2004-04-08 - 2004-06-08"
+            ,"where"    : "INSA ; Toulouse"
+            ,"keyword"  : "Game, Ada, Model MVC, Gtk"
+            ,"list"     : ["BlackBox is a game of reflexion coded in ADA language. The objective for the player is to shoot with electrons into the \"Black Box\" and guess the position of the atoms hidden on the tray of game. To guess the position the player has to analyze the trajectories of the electrons", "We have coded the game in ADA 95 language using GtkAda 1.2. this game is hosted on SourceForge"]
+        },
+        "fr" : {
+            "titre"     : "Projet académique - Projet Blackbox"
+            ,"period"   : "2004-04-08 - 2004-06-08"
+            ,"where"    : "INSA; Toulouse"
+            ,"keyword"  : "jeux, Ada, Model MVC, Gtk"
+            ,"list"     : ["BlackBox est un jeu de réflexion codé dans le langage ADA et respectant le pattern MVC (Model, View, Controller). L'objective pour le joueur est de tirer des faisceaux d'électrons dans la \"black box\" et de deviner la position des atomes cachés sur le plateau de jeu. Pour deviner ces positions, le joueur doit analyser les trajectoires des électrons.", "Nous avons codé le jeu en ADA 95 en utilisant la librairie GtkAda 1.2. Ce jeu est maintenu sur SourceForge"]
+        }
+    }
+}         
