@@ -15,12 +15,12 @@
       ,"fr":     {
                 "fr_01": "Sur le plan professionnel, je suis intéressé par les nouvelles technologies mobiles, les communications réseaux et les technologies Internet."
                 ,"fr_02": "J'ai une expérience dans le domaine des technologies et communications mobiles (GSM, UMTS, LTE, SAE, IMS, Mobile IP, MBMS, IP-TV, NFC)." 
-                ,"fr_03": "Étant passionnément curieux, j'aime étudier toutes les possibilités sur toutes les idées. Je désire mener et gérer des projets professionnels à caractère innovant, entouré d'équipes motivés, ouvertes, et compétentes."
+                ,"fr_03": "Étant passionnément curieux, j'aime étudier toutes les possibilités sur toutes les idées. Je désire mener et gérer des projets professionnels à caractère innovant, entouré d'équipes motivés, ouvertes, et compétentes. Actuellement j'expérimente les technologies Node.js, html5, couchbase, ..."
       }
       ,"en":     {
                 "en_01": "In professional terms, I am interesting in new mobile-related technologies, network communication and web oriented technologies"
                 ,"en_02": "I have a professional experience on mobile communications and technologies (GSM, UMTS, LTE, SAE, IMS, Mobile IP, MBMS, IP-TV, NFC)."
-                ,"en_03": "Being passionately curious, I like to find all possibilities around any ideas. My desire is to lead professional projects, guide people towards innovative thinking, surrounded by motivated and hilghly qualified teams."
+                ,"en_03": "Being passionately curious, I like to find all possibilities around any ideas. My desire is to lead professional projects, guide people towards innovative thinking, surrounded by motivated and hilghly qualified teams. Currently I am experimenting technologies like Node.js, html5, couchbase, ..."
       }
   }
   , "int_perso" : {
